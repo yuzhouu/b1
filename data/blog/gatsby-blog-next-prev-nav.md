@@ -10,7 +10,7 @@ date: 2021-09-01
 
 ## 正文
 
-话不说，上代码
+话不多说，上代码
 
 ```javascript
 // gatsby.node.js
