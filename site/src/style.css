@@ -313,3 +313,7 @@ a:focus {
   margin: 0.5em 0;
   padding: 0 1em;
 } */
+
+:not(pre) > code[class*='language-'] {
+  background: #f3e2ff;
+}
