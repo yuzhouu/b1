@@ -6,7 +6,7 @@ date: 2021-11-24
 
 在做 prosemirror 编辑器的时候常常遇到这样的场景，点击 toolbar 时，编辑区内的选区丢失。
 
-解决办法，监听 toolbar 的 mousedown 事件，e.preventDefault(), 可以让选区不丢失，同时编辑去的 blur 事件也不会触发
+解决办法，监听 toolbar 的 mousedown 事件，e.preventDefault(), 可以让选区不丢失，同时编辑区的 blur 事件也不会触发
 
 ```js
 onMouseDown={e => {
