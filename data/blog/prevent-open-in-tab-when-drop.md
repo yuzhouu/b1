@@ -12,16 +12,19 @@ date: 2021-12-24
 
 ```js
 const handleDragOver: DragEventHandler<HTMLButtonElement> = event => {
+    // 跳过drop区域判断
     event.preventDefault();
-    // event.stopPropagation()
 };
 
 const handleDrop: DragEventHandler<HTMLButtonElement> = event => {
     event.preventDefault();
-    // event.stopPropagation()
 };
 ```
 
+## 解释
+
+A listener for the dragenter and dragover events are used to indicate valid drop targets, that is, places where dragged items may be dropped. Most areas of a web page or application are not valid places to drop data. Thus, the default handling of these events is not to allow a drop.
+
 ## extra link
 
-https://stackoverflow.com/questions/6756583/prevent-browser-from-loading-a-drag-and-dropped-file
+-   https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API/Drag_operations#specifying_drop_targets
