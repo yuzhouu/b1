@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-blog-tags-tag-name-tsx",
+    "path": "/blog/tags/js/",
+    "result": {"data":{"allMdx":{"nodes":[{"excerpt":"遇到一个问题，在拖动文件到绑定 drop 事件的元素时，drop 事件没有触发，而是直接在新标签页打开了文件， 解决方案 同时绑定 DragOver，Drop 事件，同时 preventDefault 解释 A listener for the dragenter and…","slug":"prevent-open-in-tab-when-drop","frontmatter":{"date":"December 24, 2021","title":"onDrop 在新标签页打开文件，而不是触发drop事件","tags":["js"]}}]}},"pageContext":{"id":"js","name":"js","__params":{"name":"js"}}},
+    "staticQueryHashes": ["2719914062","3000541721","3159585216"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-blog-tags-index-tsx",
     "path": "/blog/tags/",
-    "result": {"data":{"allTag":{"nodes":[{"name":"chart","id":"chart"},{"name":"d3","id":"d3"},{"name":"gatsby","id":"gatsby"},{"name":"prosemirror","id":"prosemirror"},{"name":"monorepo","id":"monorepo"},{"name":"lerna","id":"lerna"},{"name":"yarn","id":"yarn"},{"name":"react source","id":"react source"},{"name":"code","id":"code"}]}},"pageContext":{}},
+    "result": {"data":{"allTag":{"nodes":[{"name":"chart","id":"chart"},{"name":"d3","id":"d3"},{"name":"gatsby","id":"gatsby"},{"name":"prosemirror","id":"prosemirror"},{"name":"monorepo","id":"monorepo"},{"name":"lerna","id":"lerna"},{"name":"yarn","id":"yarn"},{"name":"js","id":"js"},{"name":"react","id":"react"},{"name":"react source","id":"react source"},{"name":"code","id":"code"}]}},"pageContext":{}},
     "staticQueryHashes": ["1896368647","2719914062","3000541721","3159585216"]}
