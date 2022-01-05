@@ -1,5 +1,5 @@
 ---
-title: fix: onDrop 在新标签页打开文件，而不是触发drop事件 
+title: onDrop 在新标签页打开文件，而不是触发drop事件 
 tags: ["js"]
 date: 2021-12-24
 ---
